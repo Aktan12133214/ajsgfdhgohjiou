@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="900" viewBox="0 0 1440 900">
+<rect width="1440" height="900" fill="#efefed"/>
+<rect width="1440" height="300" fill="#2e7a50"/>
+<rect y="600" width="1440" height="300" fill="#2e7a50"/>
+<text x="720" y="470" text-anchor="middle" font-family="Familjen Grotesk, Arial, sans-serif" font-size="150" fill="#2e7a50">АКТАН</text>
+<text x="720" y="780" text-anchor="middle" font-family="Familjen Grotesk, Arial, sans-serif" font-size="150" fill="#efefed">ПОРТФОЛИО</text>
+</svg>
